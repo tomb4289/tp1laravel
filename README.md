@@ -2,6 +2,8 @@
 
 A static website built with Laravel for presenting the TechPro Laptop product. This project demonstrates the use of Laravel's Blade templating system, routing, controllers, and form handling.
 
+**GitHub Repository:** [https://github.com/tomb4289/tp1laravel](https://github.com/tomb4289/tp1laravel)
+
 ## Features
 
 - **Responsive Design**: Modern, mobile-friendly interface
